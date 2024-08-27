@@ -1,0 +1,12 @@
+Customer:
+malik@gmail.com
+malik
+
+
+manager:
+malik
+malik
+
+cs:
+cs
+cs
